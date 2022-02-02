@@ -11,6 +11,12 @@
 
 ### DONATE
 
-BNB bnb1mlhr53nevw24fty6f26jxy23f85t0lkpj4zyh9
+ERC 0xbF77B8a74Db0844032cFfB3EEB487FC500765C4e
 
-BTT/TRX TMC8F373fQvQUcddtQ2cgDsPLP8rM6KdMN
+SOL jLmqyrAvd55jixwQQGCDRnTPLHUTJXYNoynKcMYwbqK
+
+COSMOS cosmos1fhlvuwmtalyt2qda2manf6lxsjdv4zxwaew489
+
+PolkaDOT 5EjkEfaLfLqwujT1yi4dkkWWTo3d9MUfwAQEpjsaUANVjiye
+
+TRON TNvHrjyD4RsaXHjfZSYw62e7a9iJMmL5ah
