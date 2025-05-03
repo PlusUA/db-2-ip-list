@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/)
 
+##0.0.2 - 2025-05-03
+### Added
+- Counting the number of skipped ranges (skippedCount).
+- Entry in skipped_XX.log at the end of the job: how many ranges were skipped.
+- Country code length check.
+- Clean (not append) output file.
+- Count IP addresses.
+- Protection against overly large ranges.
+- Improved code readability.
+- Workers read IP ranges and convert them to strings.
+- One separate worker writes to a file to avoid write conflicts.
+- Management via WaitGroup to ensure all goroutines terminate gracefully.
+- IPV6
+
+
 ##0.0.1 - 2021-04-23
 ### Added
 - Release.
